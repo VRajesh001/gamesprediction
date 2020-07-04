@@ -2,7 +2,7 @@
 
 ----
 
-The aim of this project is to serve as a simple example of implementing tensorflow model to be used with the [sagemaker-pipeline](https://github.com/MustafaWaheed91/sagemaker-pipeline) project.
+The aim of this project is to serve as a simple example of implementing tensorflow model to be used with the [sagemaker-pipeline] ( https://github.com/VRajesh001/sagemaker-pipeline.git ) project.
 
 ### Prerequisites
 
@@ -15,7 +15,7 @@ The aim of this project is to serve as a simple example of implementing tensorfl
 
 ```
 
-git clone https://github.com/MustafaWaheed91/tf-gamesbiz.git
+git clone https://github.com/VRajesh001/gamesprediction.git
 
 cd tf-gamesbiz
 
@@ -27,7 +27,7 @@ python3 gamesbiz/train.py
 
 ### Running Model on Amazon SageMaker
 
-Follow the instructions in [sagemaker-pipeline](https://github.com/MustafaWaheed91/sagemaker-pipeline) project to see how to use the model
+Follow the instructions in [sagemaker-pipeline] ( https://github.com/VRajesh001/sagemaker-pipeline.git ) project to see how to use the model
 in this package to run with SageMaker training pipeline.
 
 ----
@@ -39,4 +39,4 @@ in this package to run with SageMaker training pipeline.
 
 ### Authors
 
-* **Mustafa Waheed** - *Data Scientist* 
+Rajesh Vyas
