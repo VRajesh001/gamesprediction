@@ -37,6 +37,6 @@ in this package to run with SageMaker training pipeline.
 * [Tensorflow](https://www.tensorflow.org/) - Open Source Machine Learning framework
 
 
-### Authors
+### Author
 
 Rajesh Vyas
